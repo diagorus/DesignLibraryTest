@@ -52,5 +52,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         app:layout_anchor="@id/nsvDesignTestNested"
-        app:layout_anchorGravity="bottom|end" />
+        app:layout_anchorGravity="bottom|end"
+        app:layout_behavior="com.fuh.designlibrarytest.util.ScrollAwareFabBehavior" />
 </android.support.design.widget.CoordinatorLayout>

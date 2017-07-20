@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tbDesignTestToolbar" type="id" />
+    <item name="clDesignTestCoordinator" type="id" />
+    <item name="nsvDesignTestNested" type="id" />
+    <item name="tvDesignTestText" type="id" />
+</resources>
